@@ -33,7 +33,7 @@
 // 全键无冲 必须
 #define FORCE_NKRO
 
-#define RGB_MATRIX_CENTER { 89,  38 } // RGB 矩阵中心，“H” 键
+#define RGB_MATRIX_CENTER {119,  26} // RGB 矩阵中心，“Y” 键
 
 #if RGBLIGHT_ENABLE
     #define RGB_DI_PIN C6
